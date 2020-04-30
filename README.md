@@ -1,7 +1,7 @@
 Projeto AME - Automação Modular Escalável
 Engenharia de Computação - 2019, 4 Período FACIT.
 
-![AME](ame.png)
+![AME](AME.png)
 
 > Projeto do XVII Seminário da Interdisciplinaridade do Cálculo desenvolvido na disciplina de Física, Programação e Introdução a Computação.
 
